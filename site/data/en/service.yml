@@ -1,0 +1,34 @@
+################################# Service #################################
+service:
+  enable : true
+  title : Our Services
+  service_item :
+    # service item loop
+    - name : Website Development
+      icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      content : Utilizing one of our pre-built websites, we can craft you a website that fits your business. Let us help walk you through every step of the way.
+      
+    # service item loop
+    - name : App Development
+      icon : ti-package # themify icon pack : https://themify.me/themify-icons
+      content : Need something more than just a website but don't know how to code.  Let us do the coding and you keep doing what you do best, running your business.
+      
+    # service item loop
+    - name : Consulting
+      icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
+      content : We can analyze any technology at your business and assist you in making it into what you desire.  Let us walk you through the difficult things.
+      
+#    # service item loop
+#    - name : Graphic Design
+#      icon : ti-palette # themify icon pack : https://themify.me/themify-icons
+#      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+#      
+#    # service item loop
+#    - name : Apps Development
+#      icon : ti-package # themify icon pack : https://themify.me/themify-icons
+#      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+#      
+#    # service item loop
+#    - name : Networking
+#      icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
+#      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.

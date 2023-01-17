@@ -1,0 +1,27 @@
+################################# Skill ##################################
+skill:
+  enable : true
+  title : Our Skills
+  subtitle : We are skilled in a wide range of technologies around the web.
+  #content : Small businesses often struggle with technology, not because they don't know their craft, but because they do!  They are so well versed in their own business that they don't typically have an understanding of technologies that could benefit them and their businesses.
+  content : Our team is well versed in nearly anything that your company could need.  And if you need something that we currently do not know, we would be willing to figure it out together!
+  image : images/about/company-growth.webp
+  skill_item :
+    # skill item loop
+    - name :  API Development
+      percent : 90%
+      
+    # skill item loop
+    - name :  Web Design
+      percent : 70%
+      
+    # skill item loop
+    - name :  Cloud Technologies
+      percent : 60%
+      
+    - name :  Team Management
+      percent : 80%
+      
+    # skill item loop
+    - name :  Mobile Development
+      percent : 25%

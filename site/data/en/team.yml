@@ -1,0 +1,20 @@
+############################### team ############################
+team:
+  enable : true
+  title : Our Team
+  team_member :
+    # team member loop
+    - name : Tristan Goetz
+      image_webp : images/team/team-1.webp
+      image : images/team/team-1.jpg
+      designation : CEO/Founder
+      content : As a former Navy Nuclear Engineer, he has a history of ensuring attention to detail.  He also enjoys disc golf!
+      social :
+        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.facebook.com/tristan.r.goetz"
+        # - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+        #   link : "https://twitter.com/TGoetzDiscGolf"
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.linkedin.com/in/tristan-goetz/"
+        # - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+        #   link : "#"

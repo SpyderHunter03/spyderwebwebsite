@@ -1,0 +1,52 @@
+##################################### pricing ##############################
+pricing:
+  enable : true
+  title : Our Plans
+  pricing_table :
+    # pricing table loop
+    - name : Free
+      price : $0
+      unit : ever
+      services:
+        - Website Hosting
+        - Monthly Updates
+      button:
+        label : "Signup"
+        link : "#"
+      
+    # pricing table loop
+    - name : Silver
+      price : $20
+      unit : month
+      services:
+        - Website Hosting
+        - Weekly Updates
+        - Contact Form
+      button:
+        label : "Signup"
+        link : "#"
+        
+    # pricing table loop
+    - name : Gold
+      price : $50
+      unit : month
+      services:
+        - Website Hosting
+        - Daily Updates
+        - Contact Form
+      button:
+        label : "Signup"
+        link : "#"
+        
+    # pricing table loop
+    - name : Platinum
+      price : $100
+      unit : month
+      services:
+        - Website Hosting
+        - Daily Updates
+        - Contact Form
+        - Business Technology Solutions
+      button:
+        label : "Signup"
+        link : "#"

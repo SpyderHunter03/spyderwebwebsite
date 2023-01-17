@@ -1,0 +1,16 @@
+############################# About ###################################
+about:
+  enable : true
+  title : About Us
+  about_item :
+  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
+    title : We're Creative
+    content : Pick a template that you like and we can work with you to match your businesses charm and aesthetic.
+
+  - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
+    title : We're Professional
+    content : We ensure quick response times and are able to change your site quickly.  We can even teach you how to do it yourself!
+
+  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
+    title : We're Genius
+    content : Don't see a template you like?  Let's work together to make you your own personal site.  We can even add extra features too!
