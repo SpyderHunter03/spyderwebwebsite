@@ -1,0 +1,13 @@
+<article class="col-lg-4 col-md-6 col-12 wow fadeInUp" data-wow-duration="500ms">
+  <div class="template-block text-center">
+    <a href="{{ .Params.link | safeURL}}">
+      <div class="template-photo">
+        <img class="img-fluid lozad" data-src="{{ .Params.image_webp | absURL }}" onerror="this.onerror=null;this.src='{{ .Params.image | absURL }}'" alt="{{ .Params.title }}">
+      </div>
+      <div class="template-text">
+        <h3>{{ .Params.title | markdownify }}</h3>
+        <p>{{ .Params.description | markdownify }}</p>
+      </div>
+    </a>
+  </div>
+</article>

@@ -52,7 +52,7 @@ url = "#services"
 weight = 2
 
 [[Languages.en.menu.main]]
-name = "Portfolio"
+name = "Projects"
 url = "#portfolio"
 weight = 4
 
@@ -85,43 +85,43 @@ hasChildren = true
 [[Languages.en.menu.main]]
 parent = "Templates"
 name = "Portfolio"
-url = "#"
+url = "/templates/portfolio"
 weight = 1
 
 [[Languages.en.menu.main]]
 parent = "Templates"
 name = "E-Commerce"
-url = "#"
+url = "/templates/ecommerce"
 weight = 2
 
 [[Languages.en.menu.main]]
 parent = "Templates"
 name = "Agency"
-url = "#"
+url = "/templates/agency"
 weight = 3
 
 [[Languages.en.menu.main]]
 parent = "Templates"
 name = "Saas"
-url = "#"
+url = "/templates/saas"
 weight = 4
 
 [[Languages.en.menu.main]]
 parent = "Templates"
 name = "Business"
-url = "#"
+url = "/templates/business"
 weight = 5
 
 [[Languages.en.menu.main]]
 parent = "Templates"
 name = "Blog"
-url = "#"
+url = "/templates/blog"
 weight = 6
 
 [[Languages.en.menu.main]]
 parent = "Templates"
 name = "Documentation"
-url = "#"
+url = "/templates/documentation"
 weight = 7
 
 ################### French Navigation ########################
