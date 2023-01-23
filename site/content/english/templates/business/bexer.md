@@ -1,4 +1,5 @@
 ---
+enabled: true
 title: "Bexer"
 description: "Business Theme"
 image_webp: images/templates/bexer.webp

@@ -1,4 +1,5 @@
 ---
+enabled: true
 title: "Bizcraft"
 description: "Business Theme"
 image_webp: images/templates/bizcraft.webp

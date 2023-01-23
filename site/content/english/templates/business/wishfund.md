@@ -1,4 +1,5 @@
 ---
+enabled: true
 title: "Wishfund"
 description: "NGO and Charity Theme"
 image_webp: images/templates/wishfund.webp

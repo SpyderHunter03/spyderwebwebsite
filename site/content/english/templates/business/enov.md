@@ -1,4 +1,5 @@
 ---
+enabled: true
 title: "Enov"
 description: "Business Theme"
 image_webp: images/templates/enov.webp

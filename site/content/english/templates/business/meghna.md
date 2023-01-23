@@ -1,4 +1,5 @@
 ---
+enabled: true
 title: "Meghna"
 description: "Business Theme"
 image_webp: images/templates/meghna.webp

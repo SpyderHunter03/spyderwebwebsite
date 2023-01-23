@@ -1,4 +1,5 @@
 ---
+enabled: true
 title: "Omega"
 description: "Agency Theme"
 image_webp: images/templates/omega.webp

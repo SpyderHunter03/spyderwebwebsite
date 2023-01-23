@@ -16,7 +16,9 @@
       </div>
       {{"<!-- /section title -->" | safeHTML}}
       {{ range .Data.Pages }}
-        {{ .Render "template" }}
+        {{ if .Params.enabled }}
+          {{ .Render "template" }}
+        {{ end }}
       {{ end }}
     </div>
   </div>
