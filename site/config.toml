@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://localhost"
+baseURL = "https://spyderweb.tristangoetz.me"
 title = "Meghna"
 theme = "meghna-hugo"
 # post pagination
