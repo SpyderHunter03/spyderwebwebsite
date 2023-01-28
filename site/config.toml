@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 baseURL = "https://spyderweb.tristangoetz.me"
-title = "Meghna"
+title = "Spyder Web"
 theme = "meghna-hugo"
 # post pagination
 paginate = "6"
